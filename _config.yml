@@ -1,13 +1,13 @@
-title: bitbrain
-url: https://bitbrain.github.io
-author: bitbrain
-email: miguel-gonzalez@gmx.de
+title: 8Bits\Code
+author: 8Bits\Code
+email: oitobits.code@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Hi there, I am Miguel and I create games! Occasionally I blog about cloud, gamedev and web. Born and raised in Germany, studied in the Netherlands, currently living in the UK.
+  Conteúdo para quem está aprendendo a programar em Java ou Python,
+  você pode nós encontrar no YouTube como 8Bits Code, vídeos toda semana.
 show_excerpts: false # set to true to show excerpts on the homepage
 
-paginate: 5
-paginate_path: "/blog/page:num/"
+paginate: 1
+paginate_path: "https://8bits-code.github.io"
 
 tag_permalink_style: pretty
 tag_page_layout: tag_page
@@ -19,33 +19,33 @@ dash:
   date_format: "%b %-d, %Y"
 
   disqus:
-    shortname: bitbrain-github-io
+    shortname: https-8bits-code-github-io
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://soundcloud.com/myrealityde
-      icon: soundcloud
-      color: orange
-    - url: https://twitter.com/bitbrain_
-      icon: twitter-square
-      color: cyan
     - url: https://bitbrain.itch.io
       icon: itch-io
       color: red
-    - url: https://www.twitch.tv/bitbrain_
-      icon: twitch
-      color: purple
-    - url: https://www.youtube.com/channel/UCZDjQltHRNiXIYXMBeLDleA
-      icon: youtube
-      color: red
-    - url: https://github.com/bitbrain
+    - url: https://github.com/8bits-code
       icon: github-square
-      color: yellow
+      color: purple
+
+  show_author: true
+
+  animation_speed: 50
 
 # Build settings
 theme: jekyll-dash
 
 plugins:
-  - liquid-md5
-  - jekyll/tagging
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-paginate
+ - liquid-md5
+ - jekyll/tagging
+
+# Replaces the default avatar provider (gravatar)
+avatar_source: github
+github_username: 8bits-code
+
