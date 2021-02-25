@@ -3,8 +3,10 @@ layout: page
 title: About
 ---
 
-Hello. Thanks for visiting my personal blog. Do you like software design? You are a developer and always wanted to know another pro tip for simple take away? Then stay a while and listen, I have many things to say.
+Olá, seja bem vindo ao nosso blog de conteúdo de programação Java e Python. aqui você terá posts semanais para te ajudar a escarecer um pouco mais sobre esse universo dos algorítomos.
 
-I grew up in a far country, called Germany. Germans normally do not risk a lot, safety first. However, I was one of those weird Germans who decided to study **not** in Germany *but* in the Netherlands. After finishing my Bachelor degree I moved to London to work as a Software Engineer.
+Fique avontade e desfrute de nossos conteudos, esperramos que de alguma forma possamos acrescentar em seu desenvolvimento.
 
-By the way, in my free-time I create my own games and I play games as well! [Follow me on Twitter](https://twitter.com/bitbrain_) to take part of my journey.
+Voçê pode encontrar a gente no YouTube, acesse https://www.youtube.com/channel/UC6qRe3cEGMY10GTg6rH_E9w?sub_confirmation=1
+
+
