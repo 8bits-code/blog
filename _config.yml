@@ -3,7 +3,7 @@ author: 8Bits\Code
 email: oitobits.code@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Conteúdo para quem está aprendendo a programar em Java ou Python,
-  você pode nós encontrar no YouTube como 8Bits Code, vídeos toda semana.
+  você pode nós encontrar no YouTube como 8Bits\Code, vídeos toda semana.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 paginate: 1
@@ -24,8 +24,8 @@ dash:
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://bitbrain.itch.io
-      icon: itch-io
+    - url: https://www.youtube.com/channel/UC6qRe3cEGMY10GTg6rH_E9w?sub_confirmation=1
+      icon: youtube
       color: red
     - url: https://github.com/8bits-code
       icon: github-square
