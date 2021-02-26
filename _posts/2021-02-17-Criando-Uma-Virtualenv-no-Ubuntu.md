@@ -163,5 +163,5 @@ lembrabdo de modificar o < env > pelo nome que você deu a sua env.
 
 </div>
 
-Esperamos ter-lo ajudado a sanar suas dúvidas.
-Até o próximo artigo...
+Esperamos tê-lo(a) ajudado(a) a sanar suas dúvidas.
+Até o próximo post...
