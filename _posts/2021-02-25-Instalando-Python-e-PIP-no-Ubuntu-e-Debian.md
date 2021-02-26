@@ -14,7 +14,6 @@ para instalar o python é muito simples, basta abrir o terminal do Ubuntu ou Deb
 
 ```
 >> sodo apt install python3
-
 ```
 após apertar Enter no teclado, você terá que digitar a sua senha de usuário de depois escolher "yes" para proseguir com a instalação.
 
@@ -24,7 +23,6 @@ caso tenha ocorrido tudo corretamente se você digitar o seguinte comando no ter
 ou
 
 >> python --version
-
 ```
 esse comando retornará a versão do python instalado em sua máquina.
 
@@ -37,7 +35,6 @@ para instalar o pip basta digitar o seguinte comando em seu terminal.
 
 ```
 >> sudo apt install python3-pip
-
 ```
 ## Executando o seu primeiro código python no terminal Ubuntu\Debian
 
