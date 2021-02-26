@@ -1,4 +1,5 @@
 title: 8Bits\Code
+url: https://8bits-code.github.io
 author: 8Bits\Code
 email: oitobits.code@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -7,7 +8,7 @@ description: > # this means to ignore newlines until "show_exerpts:"
 show_excerpts: false # set to true to show excerpts on the homepage
 
 paginate: 3
-paginate_path: "https://8bits-code.github.io"
+paginate_path: "/blog/page:num/"
 
 tag_permalink_style: pretty
 tag_page_layout: tag_page
