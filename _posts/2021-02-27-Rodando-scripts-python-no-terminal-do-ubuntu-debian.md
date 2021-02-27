@@ -53,7 +53,7 @@ Agora voçê está com um script pronto para ser execultado no terninal, para ex
 se tudo deu certo, voçê terá como resposta um "Hello World".
 
 ## Execultando o script com uma virtualenv
-caso você saiba o que é uma virtualenv, fizemos um post explicando como instalar o programa que cria virtuaienv, acesse ele Aqui<a href="https://8bits-code.github.io/2021/02/17/Criando-Uma-Virtualenv-no-Ubuntu.html" target="_blank">Aqui</a>
+caso você saiba o que é uma virtualenv, fizemos um post explicando como instalar o programa que cria virtuaienv, acesse ele <a href="https://8bits-code.github.io/2021/02/17/Criando-Uma-Virtualenv-no-Ubuntu.html" target="_blank">Aqui</a>
 
 caso já tenha instalado, digite o seguinte comando no terminal:
 ```
@@ -92,7 +92,7 @@ como das outras vezes seu script irá roda
 
 <div class="embad">
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/CGf-l0ElRFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/SJUwHDc59yo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </div>
 
