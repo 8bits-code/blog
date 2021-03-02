@@ -5,6 +5,8 @@ description: Seja Bem vindo ao 8Bits\Code, Boa Leitura.
 tags: python virtualenv pip
 ---
 
+![python-virtualenv](/public/media/python-virtualenv.png)
+
 Hoje vamos aprender como criar, ativar e remover uma Virtualenv para gerenciamento de projetos em Python
 
 Para que possamos dá inicio ao processo de criação é necessário ter o gerenciador de pacotes do pithon instalado em seu sistema operracional.

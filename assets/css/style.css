@@ -4621,7 +4621,7 @@ pre, code {
   border-radius: 0.3em; }
   .theme--dark pre,
   .theme--dark code {
-    background-color: #1E2227;
+    background-color: #15171A;
     color: #DAE4ED; }
   .theme--light pre, .theme--light code {
     background-color: #1E2227;
@@ -4860,7 +4860,7 @@ pre {
   padding: 0.3em 0.6em;
   border-radius: 0.3em; }
   .theme--dark .tag, .theme--dark .tag-cloud > a {
-    background-color: #1E2227; }
+    background-color: #15171A; }
   .theme--light .tag, .theme--light .tag-cloud > a {
     background-color: #f2f6f9; }
   .tag:hover, .tag-cloud > a:hover {
