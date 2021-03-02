@@ -5,6 +5,8 @@ description: Seja Bem vindo ao 8Bits\Code, Boa Leitura.
 tags: python pip ubuntu debian
 ---
 
+![scripts-python-no-terminal](/public/media/scripts-python-no-terminal.png)
+
 O Python é uma linguagem de programação muito famosa e por isso muito utilizada em diversas áreas da tecnologia, desde desenvolvimento web até em Inteligencia Artificial.
 Hoje vamos aprender como roda scripts python no terminal do Ubuntu ou no Debian e seus derivados.
 

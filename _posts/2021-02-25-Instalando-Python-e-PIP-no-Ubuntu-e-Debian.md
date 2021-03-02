@@ -5,6 +5,8 @@ description: Seja Bem vindo ao 8Bits\Code, Boa Leitura.
 tags: python pip ubuntu debian
 ---
 
+![instalar-python-pip](/public/media/instalar-python-pip.png)
+
 Para roda seus scripts python no Debian ou Ubuntu e seus derivados é preciso
 ter o python instalado em sua máquina, nas versões mais atuais do ubuntu o python já vem instalado por padrão.
 caso ele não esteja instalado por algum motivo, siga os passos a seguir para instala-lo.
