@@ -4518,6 +4518,23 @@ body, html {
   outline: none; }
 
 /**
+ * plano de fundo - init
+ */
+
+html { 
+  background: ![mindmazer-level-simple](/public/media/wallpaper.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/**
+ * plano de fundo - fim
+ */
+
+
+/**
  * Set `margin-bottom` to maintain vertical rhythm
  */
 h1, h2, h3, h4, h5, h6,
