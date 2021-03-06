@@ -60,13 +60,13 @@ a saida do comando assim será algo parecido com esse:
 >> pip 21.0.1 from /home/atrya/.local/lib/python3.8/site-packages/pip (python 3.8)
 ```
 
-# Instalando  Virtualenv o Sistema Operacional usando o pip
+## Instalando  Virtualenv o Sistema Operacional usando o pip
 
 Tendo verificado se o pip está instalado em seu Sistema Operacional, agora podemos continuar, a primeira coisa que devemos fazer para podemos criar uma virtualenv no Ubuntu é instalar a virtualenv, esse programa irá ser responsável por criar as "virtuais envs".
 
 para temos acesso as funcionalidades, devemos instala-la utilizando o gerencioador de arquivos que instalamos na etapa anterior, para isso digite o seguinte código em seu terminal:
 
-## Instalar virtualenv para o Python 2
+### Instalar virtualenv para o Python 2
 
 rode o seguinte código em seu terminal
 ```
@@ -84,7 +84,7 @@ terminal:
 ```
 
 
-## Instalar virtualenv para o Python 3
+### Instalar virtualenv para o Python 3
 
 rode o seguinte código em seu terminal
 ```
@@ -102,7 +102,7 @@ terminal:
 ```
 
 
-# Criando uma Virtualenv
+## Criando uma Virtualenv
 
 Para criar uma virtualenv é muito fácil, basta ir para o diretório do projeto que você deseja 
 criar a virtualenv e roda o seguinte comando no seu terminal:
@@ -129,7 +129,7 @@ pronto, agora você tem sua virtualenv ativada e pronta para ser utilizada em se
 
 lembrando que caso você feche o terminal, e volte para dá continuidade em seu projeto você deve ativar sua virtualenv novamente seguindo o passo anterior.
 
-# Desativando e removendo Virtualenv
+## Desativando e removendo Virtualenv
 
 caso você não deseje mais utilizar uma env, voçê pode desativar ou remove-la/deletar-la.
 Para desativa-lá basta fechar o terminal ou digitar no terminal o seguinte copmando:
